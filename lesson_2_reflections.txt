@@ -18,6 +18,9 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+    Suppose I want to give some additional feature but still wouldn't want to
+    make it official then I will use git branches.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
